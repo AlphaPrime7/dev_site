@@ -5,9 +5,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
+# Using npm
 cd dev_site
 npm fund
 npm run dev #bun is more for linux or darwin i guess-NOT sure
+
+#Using yarn
+cd dev_site
+npm fund
+npm install yarn
+yarn dev 
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
